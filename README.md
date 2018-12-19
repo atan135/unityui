@@ -15,3 +15,12 @@ main use for learn unity ui source code and make some components on it.
 
 * 
 
+
+
+### 使用unity 新版ui的不同
+
+1. 没有prefab link
+2. text的阿拉伯文特殊布局
+3. 内容的尺寸适配（旧版 uistate，新版auto layout element）
+4. 没有List组件，用于批量初始化列表
+5. 
